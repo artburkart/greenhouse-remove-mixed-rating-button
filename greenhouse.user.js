@@ -3,7 +3,7 @@
 // @namespace    presynce.com
 // @license      MIT
 // @version      0.1
-// @description  try to take over the world!
+// @description  Removes the "Mixed Rating" button from feedback pages.
 // @author       artburkart
 // @match        https://*.greenhouse.io/*
 // @grant        none
