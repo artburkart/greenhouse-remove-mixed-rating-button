@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Remove "Mixed Rating" Option
 // @namespace    presynce.com
+// @license      MIT
 // @version      0.1
 // @description  try to take over the world!
 // @author       artburkart
